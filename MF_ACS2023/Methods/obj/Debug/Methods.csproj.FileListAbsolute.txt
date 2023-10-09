@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\MF_ACS23\MF_ACS2023\Methods\bin\Debug\Methods.exe.config
+C:\Users\User\source\repos\MF_ACS23\MF_ACS2023\Methods\bin\Debug\Methods.exe
+C:\Users\User\source\repos\MF_ACS23\MF_ACS2023\Methods\bin\Debug\Methods.pdb
+C:\Users\User\source\repos\MF_ACS23\MF_ACS2023\Methods\obj\Debug\Methods.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\MF_ACS23\MF_ACS2023\Methods\obj\Debug\Methods.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\MF_ACS23\MF_ACS2023\Methods\obj\Debug\Methods.exe
+C:\Users\User\source\repos\MF_ACS23\MF_ACS2023\Methods\obj\Debug\Methods.pdb

@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\MF_ACS23\MF_ACS2023\StringHandling\obj\Debug\StringHandling.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\MF_ACS23\MF_ACS2023\StringHandling\obj\Debug\StringHandling.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\MF_ACS23\MF_ACS2023\StringHandling\bin\Debug\StringHandling.exe.config
+C:\Users\User\source\repos\MF_ACS23\MF_ACS2023\StringHandling\bin\Debug\StringHandling.exe
+C:\Users\User\source\repos\MF_ACS23\MF_ACS2023\StringHandling\bin\Debug\StringHandling.pdb
+C:\Users\User\source\repos\MF_ACS23\MF_ACS2023\StringHandling\obj\Debug\StringHandling.exe
+C:\Users\User\source\repos\MF_ACS23\MF_ACS2023\StringHandling\obj\Debug\StringHandling.pdb

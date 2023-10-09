@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\MF_ACS23\MF_ACS2023\ArrayHandling\bin\Debug\ArrayHandling.exe.config
+C:\Users\User\source\repos\MF_ACS23\MF_ACS2023\ArrayHandling\bin\Debug\ArrayHandling.exe
+C:\Users\User\source\repos\MF_ACS23\MF_ACS2023\ArrayHandling\bin\Debug\ArrayHandling.pdb
+C:\Users\User\source\repos\MF_ACS23\MF_ACS2023\ArrayHandling\obj\Debug\ArrayHandling.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\MF_ACS23\MF_ACS2023\ArrayHandling\obj\Debug\ArrayHandling.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\MF_ACS23\MF_ACS2023\ArrayHandling\obj\Debug\ArrayHandling.exe
+C:\Users\User\source\repos\MF_ACS23\MF_ACS2023\ArrayHandling\obj\Debug\ArrayHandling.pdb
